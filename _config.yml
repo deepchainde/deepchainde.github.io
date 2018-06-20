@@ -34,6 +34,7 @@ twitter_url: https://twitter.com/DeepChainDE
 markdown: kramdown
 #theme: minima
 theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
 
 # Google Analytics Tracking ID goes here:
