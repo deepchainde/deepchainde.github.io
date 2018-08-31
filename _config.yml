@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DeepChain
+title: DeepChain GmbH
 subtitle: Professional Blockchain
 email: info@deepchain.de
 description: >- # this means to ignore newlines until "baseurl:"
-  DeepChain is a German high-tech startup focusing on blockchain development and consultancy.
+  DeepChain GmbH is a German high-tech startup focusing on blockchain development and consultancy.
 
-author: DeepChain
+author: DeepChain GmbH
 avatar: assets/images/avatar.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
