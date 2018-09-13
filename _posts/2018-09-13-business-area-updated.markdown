@@ -16,4 +16,4 @@ For the business area blockchain development the main industry we are going to f
 
 For the second business area **enterprise digitalization**, we will provide individual consulting and development service for small and medium enterprises to optimally digitalize their business processes with state-of-the-art IT technology.
 
-The website is also updated accordingly with four pictures from Unsplash. Thanks to the owners for providing these amating picturers for free usage: chuttersnap, rawpixel, American Public Power Association, and Markus Spiske.
+The website is also updated accordingly with four pictures from Unsplash. Thanks to the owners for providing these amazing pictures for free usage: chuttersnap, rawpixel, American Public Power Association, and Markus Spiske.
