@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Team online
-date:   2018-09-13 14:44:56 +0100
+date:   2018-11-13 15:24:00 +0100
 categories: news
 author: DeepChain GmbH
 ---
