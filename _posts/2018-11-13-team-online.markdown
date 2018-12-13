@@ -6,7 +6,7 @@ categories: news
 author: DeepChain GmbH
 ---
 
-The team of DeepChain GmbH is now online.
+The team of DeepChain GmbH is now online. We are a small team focusing on software solution in blockchain application development and enterprise digitalization.
 
 * Jingquan Xie - Founder and CEO of DeepChain GmbH. Jingquan has over ten years experience in developing large-scale enterprise applications and 
                     managing system integrations in international projects. He is now working on decentralized computational trust. 
